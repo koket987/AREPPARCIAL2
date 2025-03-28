@@ -13,21 +13,20 @@ Este proyecto implementa un sistema de microservicios que proporciona dos servic
 ## Imagenes De prueba
 # En la imagen a contnuacion se ve el link que nos provee AWS junto a su prueba en postman
 
-![image](https://github.com/user-attachments/assets/03451c94-a5d8-4508-b078-f00a41431af3)
+![image](https://github.com/user-attachments/assets/e8c2fe5c-3554-4256-b85f-27c374ecc7b2)
 
 # La otra prueba que se hace es la de no encontrar un numero
 
-![image](https://github.com/user-attachments/assets/bf51511e-9d3e-46ad-afca-eff8923e1ffa)
+![image](https://github.com/user-attachments/assets/b8dc13e2-7604-4df4-8c22-4282d4992323)
 
 # Y por ultimo la prueba de busqueda binaria
 
-![image](https://github.com/user-attachments/assets/74acbd19-afdc-4531-abc3-9c79a7f4a32f)
+![image](https://github.com/user-attachments/assets/beae6cc2-c742-44e2-8c5c-37a9b4e2b6d0)
+
 
 # Y asi se ve si se busca directamente en el browser
 
-![image](https://github.com/user-attachments/assets/b7d83035-95f8-49b2-91b2-b8fd26a7ccd2)
-
-
+![image](https://github.com/user-attachments/assets/656f4f84-0358-4b1b-9448-5349fce31160)
 
 
 ## Como correr
